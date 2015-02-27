@@ -1,0 +1,56 @@
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 10000 100000 50000
+Doing 50,000 iterations, while allocating up to 10,000 blocks of up to 100,000 bytes each.
+Execution time is 5.900502 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 689,963,008.
+Maximum mmapped memory at any point during the execution is 689,963,008.
+Number of mmap() calls is 54.
+
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 1000000 10 1000000
+Doing 1,000,000 iterations, while allocating up to 1,000,000 blocks of up to 10 bytes each.
+Execution time is 0.566592 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 134,217,728.
+Maximum mmapped memory at any point during the execution is 134,217,728.
+Number of mmap() calls is 1.
+
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 10000 100000 50000
+Doing 50,000 iterations, while allocating up to 10,000 blocks of up to 100,000 bytes each.
+Execution time is 5.957300 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 689,963,008.
+Maximum mmapped memory at any point during the execution is 689,963,008.
+Number of mmap() calls is 54.
+
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 1000 1000000 50000
+Doing 50,000 iterations, while allocating up to 1,000 blocks of up to 1,000,000 bytes each.
+Execution time is 61.184504 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 671,088,640.
+Maximum mmapped memory at any point during the execution is 671,088,640.
+Number of mmap() calls is 49.
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 10000 10000 1000000
+Doing 1,000,000 iterations, while allocating up to 10,000 blocks of up to 10,000 bytes each.
+Execution time is 12.400961 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 134,217,728.
+Maximum mmapped memory at any point during the execution is 134,217,728.
+Number of mmap() calls is 1.
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 10000 100000 50000
+Doing 50,000 iterations, while allocating up to 10,000 blocks of up to 100,000 bytes each.
+Execution time is 5.893431 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 689,963,008.
+Maximum mmapped memory at any point during the execution is 689,963,008.
+Number of mmap() calls is 54.
+
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ ./a.out 1000 1000000 50000
+Doing 50,000 iterations, while allocating up to 1,000 blocks of up to 1,000,000 bytes each.
+Execution time is 61.804309 seconds.
+Mmapped memory (or malloc'ed, if compiled with CS550_DEBUG defined) at exit is 671,088,640.
+Maximum mmapped memory at any point during the execution is 671,088,640.
+Number of mmap() calls is 49.
+
+kpatil2@kpatil2-Lenovo-Z50-70:~/Desktop/OS Test 1/test/Test1/Test2$ 
+
+
